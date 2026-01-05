@@ -1,2 +1,2 @@
 # Code_issue
-bug in doctor.jsx file in prescripto
+bug in appointments.jsx file in prescripto
